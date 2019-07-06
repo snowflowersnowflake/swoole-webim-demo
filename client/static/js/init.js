@@ -1,4 +1,4 @@
 var config = {
-	'domain' : "http://chat.hellosee.cc",
-	'wsserver' : "ws://120.24.84.28:9501",
+	'domain' : "http://lizhiaho.1710300802.cc",
+	'wsserver' : "ws://192.168.0.105:9501",
 }
